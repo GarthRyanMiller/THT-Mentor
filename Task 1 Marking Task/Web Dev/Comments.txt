@@ -1,0 +1,10 @@
+Hi There,
+
+I currently a moveable character on a webpage but I want prevent it from going out of the screen's bounds.
+Please could you give me an idea and some basic code on how to approach this problem?
+
+Thanks!
+
+==================
+
+You had the correct solution but it seems you are checking if there is space after a key is pressed and not if the new position after the key is pressed is < 0.

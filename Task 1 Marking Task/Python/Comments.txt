@@ -1,0 +1,15 @@
+Hi There,
+
+I'm having a bit of an issue with trying to figure out how to exactly implement the class methods so that I may call
+ them outside of the class when trying to create a new SMS object.
+
+Thanks!
+
+==========================================
+
+Hi there,
+
+To access class methods outside of the class you can access them by instantiating a clas onto the object, as you have done for no_1. You are then able to access these methods using .
+for example objectSMS.add_sms() I will indicate in your code where and alternative options to accessing the class methods.
+
+If you are having trouble regarding functionality I will make pointers to where the syntax can be better structured. Feel free to send me a message if you need further clairification or questions.
