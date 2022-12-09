@@ -1,8 +1,0 @@
-Task 1:
-
-I used the python task, SMS simulation and,
-Web Dev moving animation
-
-Task 2:
-
-I did Python Functions, Nested Loops and the optional Magic Squares tasks
